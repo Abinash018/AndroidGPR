@@ -1,7 +1,7 @@
 # Android Library - Release with _Github Package Registry_ 
 
 - Demonstration of deploying Android library to the GitHub Package Registry using GitHub Actions CI/CD.
-- In this example, whenever git tag is pushed to the GitHub branch then automatically library is published to the GitHub package registry and GitHub release is created (in draft mode).
+- In this example, whenever git tag is pushed  to the GitHub branch then automatically library is published to the GitHub package registry and GitHub release is created (in draft mode).
 
 ## Workflow
 
